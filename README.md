@@ -17,7 +17,7 @@
 | :-----------------: | :----------------------------------------------------------: |
 | 5aulty_4ish(郭师傅) | [https://github.com/saulty4ish](https://github.com/saulty4ish) |
 |      Edgaraaa       |  [https://github.com/Edgaraaa](https://github.com/Edgaraaa)  |
-|                     |                                                              |
+|      D0_0ctor       |  [https://github.com/D0-0ctor](https://github.com/D0-0ctor)  |
 
 # Tips
 
