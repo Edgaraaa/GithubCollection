@@ -21,7 +21,7 @@
 |        Symor        |     [https://github.com/Symor](https://github.com/Symor)     |
 |     CaoShuaijin     | [https://github.com/CaoShuaijin](https://github.com/CaoShuaijin) |
 |      Sartsahrp      | [https://github.com/Sartsahrp](https://github.com/Sartsahrp) |
-|                     |                                                              |
+|    ShapeOfVoice     | [https://github.com/ShapeOfVoice](https://github.com/ShapeOfVoice) |
 
 # Tips
 
