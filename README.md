@@ -20,7 +20,7 @@
 |      D0_0ctor       |  [https://github.com/D0-0ctor](https://github.com/D0-0ctor)  |
 |        Symor        |     [https://github.com/Symor](https://github.com/Symor)     |
 |     CaoShuaijin     | [https://github.com/CaoShuaijin](https://github.com/CaoShuaijin) |
-|                     |                                                              |
+|      Sartsahrp      | [https://github.com/Sartsahrp](https://github.com/Sartsahrp) |
 |                     |                                                              |
 
 # Tips
