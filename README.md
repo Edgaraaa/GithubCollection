@@ -19,7 +19,7 @@
 |      Edgaraaa       |  [https://github.com/Edgaraaa](https://github.com/Edgaraaa)  |
 |      D0_0ctor       |  [https://github.com/D0-0ctor](https://github.com/D0-0ctor)  |
 |        Symor        |     [https://github.com/Symor](https://github.com/Symor)     |
-|     CaoShuaijin     | [https://github.com/CaoShuaijin](https://github.com/CaoShuaijin) |
+|      13m0nade       | [https://github.com/13m0nade](https://github.com/13m0nade) |
 |      Sartsahrp      | [https://github.com/Sartsahrp](https://github.com/Sartsahrp) |
 |    ShapeOfVoice     | [https://github.com/ShapeOfVoice](https://github.com/ShapeOfVoice) |
 
